@@ -8,13 +8,13 @@ const girdTemplateLarge = `
   "a b c"
   "a b c"
   "a b c"
-  "a b f"
+  "d b f"
   "d e f"
   "d e f"
-  "d h i"
+  "g e f"
   "g h i"
-  "g h j"
-  "g h j"
+  "g h i"
+  "g h i"
 `
 const gridTemplateSmall= `
   "a"

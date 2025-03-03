@@ -9,3 +9,9 @@ body,
   font-family: "Inter", sans-serif;
   background-color: #1f2026;
 }
+.MuiDataGrid-virtualScroller::-webkit-scrollbar {
+  display: none;
+}
+.MuiDataGrid-virtualScroller {
+  scrollbar-width: none;
+}
