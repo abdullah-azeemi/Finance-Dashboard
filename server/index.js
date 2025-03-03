@@ -46,7 +46,7 @@ mongoose.connect(dbURI, {
         // insertKpis(kpis); 
     });
     //Product.insertMany(products);
-    Transaction.insertMany(transactions);
+    //Transaction.insertMany(transactions);
 })
 .catch(err => {
     console.error('Database connection error:', err);
